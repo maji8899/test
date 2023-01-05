@@ -1,4 +1,2 @@
 maji github
-cuijiyun github
-this is a main
-this is a merge test.
+this is a main branch
